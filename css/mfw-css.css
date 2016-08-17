@@ -222,19 +222,19 @@ button, input, optgroup, select, textarea{color: inherit;font:inherit;margin:0;}
 .tn-extra .tn-nums{font-size: 14px;color: #999;}
 .tn-extra .tn-nums i{float: left;margin:10px 5px 0 0;width: 18px;height: 14px;background-position: -30px -50px!important;}
 
-.demo .pagination{padding: 20px 5px;line-height: 24px;text-align: right;font-size: 12px;color: #999;}
-.demo .pagination{padding-right: 0;}
-.demo .count{padding-right: 12px;}
-.demo .page{display: inline-block;margin-right: 4px;margin-left: 1px;padding: 0 7px;border:0 none;border-radius: 4px;color: #666;vertical-align: middle;}
-.demo .page a{color: #666;}
-.demo .page:hover{background-color: #efefef;border:0 none;text-decoration: none;color: #666;cursor: pointer;}
-.demo .prev,.demo .next,.demo .active{display: inline-block;margin-right: 5px;background-color: #ff9d00;padding: 0 5px;border-radius: 4px;color: #fff;vertical-align: middle;}
-.demo .prev a,.demo .next a,.demo .active a{color: #fff;}
-.demo .active{padding: 0 7px;}
-.demo .hide{display: none;}
-.demo .active a,.demo .active:hover{cursor: text;background-color: #ff9d00;}
-.demo .prev,.demo .next,.demo .active{background-color: #ff9d00;}
-.demo .next{margin:0;}
+._j_pagination .pagination{padding: 20px 5px;line-height: 24px;text-align: right;font-size: 12px;color: #999;}
+._j_pagination .pagination{padding-right: 0;}
+._j_pagination .count{padding-right: 12px;}
+._j_pagination .page{display: inline-block;margin-right: 4px;margin-left: 1px;padding: 0 7px;border:0 none;border-radius: 4px;color: #666;vertical-align: middle;}
+._j_pagination .page a{color: #666;}
+._j_pagination .page:hover{background-color: #efefef;border:0 none;text-decoration: none;color: #666;cursor: pointer;}
+._j_pagination .prev,._j_pagination .next,._j_pagination .active{display: inline-block;margin-right: 5px;background-color: #ff9d00;padding: 0 5px;border-radius: 4px;color: #fff;vertical-align: middle;}
+._j_pagination .prev a,._j_pagination .next a,._j_pagination .active a{color: #fff;}
+._j_pagination .active{padding: 0 7px;}
+._j_pagination .hide{display: none;}
+._j_pagination .active a,._j_pagination .active:hover{cursor: text;background-color: #ff9d00;}
+._j_pagination .prev,._j_pagination .next,._j_pagination .active{background-color: #ff9d00;}
+._j_pagination .next{margin:0;}
 .mfw-aside{float: left;width: 260px;}
 .asidebox{margin-bottom: 30px;}
 .asidebox-hd{height: 35px;line-height: 35px;margin-bottom: 12px;}
@@ -325,6 +325,7 @@ button, input, optgroup, select, textarea{color: inherit;font:inherit;margin:0;}
 .toolbar-item-code .mfw-code{border:1px solid #e5e5e5;display: none;position: absolute;right: 55px;bottom: 0;background-color: #fff;padding: 6px;column-rule: #999;}
 .toolbar-item-down{display: none;}
 .toolbar-item-top:hover em,.toolbar-item-feedback:hover em,.toolbar-item-code:hover .mfw-code{display: block;}
+@media(min-width: 358px){.show-slider{height: 327px;}}
 @media(max-width: 1440px){
 	
 	.mfw-header{height: 58px;}

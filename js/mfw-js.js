@@ -30,7 +30,7 @@
 				{index:1,img:"wKgBs1d_hc2AY858AAumo8ZA4G878",dt:"GO!香港海洋公园玩水过夏天",dd:"【港澳通行证】 不多介绍啦，办理起来非常方便，到当地公安局出入境就能办理了。 尤其现在改用电子通行证，是芯片卡的，续签方便，过关可以走自助 通道 不用排队。 【机票】 沈阳 没有直飞 ...",address:"/i/5538429.html",tn_ding:"1181",tn_place:"香港",tn_user_name:"张幻想",tn_user_img:"wKgBs1bC-xWAAxZ0AA9CW9n21Zc06.head.w16",tn_nums:"39940/202"},
 				{index:2,img:"wKgBs1aGGoyARN_oAA_OaJhU2QY19",dt:"锡兰风韵，没有人比你更懂这片海的温柔",dd:"有人说 这里 有无尽的海滩 好客的人民 成群的大象 迷人的海浪 低廉的价格 有趣的火车 …… 这终究不是最详尽的 斯里兰卡 这是一个雾里看花的国度 当你看尽这里的风景 你却无法忘怀旅途中的感...",address:"/i/5430383.html",tn_ding:"714",tn_place:"斯里兰卡",tn_user_name:" 安東童鞋。",tn_user_img:"wKgBs1bk_9CAV6xhAAgAcAI-gC847.head.w16",tn_nums:"13489/131"},
 				{index:3,img:"wKgBpVYbf1qAUMqOAAacuyGMjO420",dt:"【宝藏纪念】✪ 好胆就来·台湾游走影像记✪︱暖情烧制︱",dd:"写在前面 台湾 一直是我排在首选的旅行地。 记得多年前我在 梅里雪山 碰到过一个 台湾 姑娘，当时跟她有过对话的人都会直接问她：你是 台湾 人吧。那个姑娘非常惊讶的反问他们：你们怎么都能...",address:"/i/5353691.html",tn_ding:"2747",tn_place:"台湾",tn_user_name:"RICKY.",tn_user_img:"wKgBs1cNxaSAMerQAACSAOd5DFk49.head.w16",tn_nums:"53326/442"},
-				{index:4,img:"wKgBpVY2DxmAMcwAAAoAoNeoM2478",dt:"【【小绿足迹】雨季中的盛夏 国庆长滩五日偷闲",dd:"首先，要感谢大家对我第一篇 日本 赏樱游记的认可和鼓励，真心谢谢。 本着绝不浪费任何一个长假和想方设法让自己一直在路上的原则，小绿一定会分享更多美丽的地方给大家哦。 这是第一次在国...",address:"/i/5325716.html",tn_ding:"1185",tn_place:"长滩岛",tn_user_name:"吉永绿",tn_user_img:"wKgBs1cQssaATcgFAAB7dXwJk1U88.head.w16",tn_nums:"43174/291"},
+				{index:4,img:"wKgBpVY2DxmAMcwAAAoAoNeoM2478",dt:"【小绿足迹】雨季中的盛夏 国庆长滩五日偷闲",dd:"首先，要感谢大家对我第一篇 日本 赏樱游记的认可和鼓励，真心谢谢。 本着绝不浪费任何一个长假和想方设法让自己一直在路上的原则，小绿一定会分享更多美丽的地方给大家哦。 这是第一次在国...",address:"/i/5325716.html",tn_ding:"1185",tn_place:"长滩岛",tn_user_name:"吉永绿",tn_user_img:"wKgBs1cQssaATcgFAAB7dXwJk1U88.head.w16",tn_nums:"43174/291"},
 				{index:5,img:"wKgBpVYtw9eAfARpAAdri4DhOys69",dt:"【Mao&Lily奇迹之旅】迪拜阿布扎比，红裙白纱在那沙漠无边的地方",dd:" 过去的一年里 我们错过了世界的风光 却迎来了生命中的阳光 短暂的收起行囊 只为慢慢适应从二人世界到三人天地的转变 有过不安焦躁与争吵 也有过温馨感动 和美 好 就是这样简简单单普通到不...",address:"/i/5324829.html",tn_ding:"878",tn_place:"迪拜",tn_user_name:"林爱念念",tn_user_img:"wKgBs1cKKxKAb7xAAAj-DBVvHRA56.head.w16",tn_nums:"28775/218"},
 				{index:6,img:"wKgBs1ca_PiAT7n6AArMEOiARzU47",dt:"横行北极圈，画一卷传奇  (春节行芬兰‘瑞典‘挪威’冰岛‘丹...",dd:" 欢迎关注微信公众号：娜树的旅拍穿搭 （微信号 nashuvogue) 不定期更新旅行人像摄影攻略 (已经推出构图篇、视角篇) 和穿搭经验~ 新浪博客 http://blog.sina.com.cn/fionashu421 新浪微博：...",address:"/i/5460205.html",tn_ding:"1128",tn_place:"北欧",tn_user_name:"飞鸥娜树",tn_user_img:"wKgBs1cSSrWAcariAAhl5PntWAE43.head.w16",tn_nums:"21261/178"},
 				{index:7,img:"wKgB3FYvbvWAFmmAAAb2rQyF6to07",dt:"『寻味◆南通』初秋，在南通寻找心中的那一抹蓝！",dd:" 我是一位喜欢自由、喜欢摄影的旅行爱好者，旅行后的游记不仅仅只是保存旅行的回忆，更希望把这段旅行故事变成一幅绚丽的画卷！ 更多游记请关注我的微博：@Nazario罗尼 个人微信：nazario201...",address:"/i/5328454.html",tn_ding:"610",tn_place:"南通",tn_user_name:"Nazario罗尼",tn_user_img:"wKgBs1ZSdSCAUpuzAAGkXtkwoLg21.head.w16",tn_nums:"21678/294"},
@@ -430,7 +430,7 @@
 
 
 		// 分页插件
-		$("#demo2").jqPaginator({
+		$("#pagination").jqPaginator({
             totalPages: 83,
             visiblePages: 9,
             currentPage: 1,
