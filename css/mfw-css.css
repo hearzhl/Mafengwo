@@ -325,7 +325,7 @@ button, input, optgroup, select, textarea{color: inherit;font:inherit;margin:0;}
 .toolbar-item-code .mfw-code{border:1px solid #e5e5e5;display: none;position: absolute;right: 55px;bottom: 0;background-color: #fff;padding: 6px;column-rule: #999;}
 .toolbar-item-down{display: none;}
 .toolbar-item-top:hover em,.toolbar-item-feedback:hover em,.toolbar-item-code:hover .mfw-code{display: block;}
-@media(min-width: 358px){.show-slider{height: 327px;}}
+@media(max-width: 358px){.show-slider{height: 327px;}}
 @media(max-width: 1440px){
 	
 	.mfw-header{height: 58px;}
